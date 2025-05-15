@@ -1,0 +1,3 @@
+admin,admin123,System,Admin,FullTime,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ggGraves,SPGoAway,Gordon,Goose,PartTime,12.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+spFighter,RRules123,Scott,Pilgrim,FullTime,8.00,50.00,2.00,6.00,0.00,8.00,0.00,0.00
